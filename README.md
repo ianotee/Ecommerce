@@ -98,9 +98,9 @@ To run tests, run the following command accordingly:
 
 👤 **Ian Otee**
 
-- GitHub: [@monicah79](https://github.com/ianotee)
-- Twitter: [@MonicahWanjema](https://twitter.com/ianotee)
-- LinkedIn: [monicah-wanjema](https://www.linkedin.com/in/ianotee/)
+- GitHub: [@ianotee](https://github.com/ianotee)
+- Twitter: [@ianotee](https://twitter.com/ianotee)
+- LinkedIn: [ianotee](https://www.linkedin.com/in/ianotee/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
