@@ -53,12 +53,12 @@ def trigger_stk_push(phone_number: int, amount: int, callback_url: str, account_
 
 def build_payment_request():
     details = trigger_stk_push(
-        phone_number="254724032624",
+        phone_number="254790841979",
         amount=1,
-        callback_url='http://91eb0af5.ngrok.io/api/payment/callback',
+        callback_url='https://thinkopal.com',
         description='Payment',
         account_ref=get_random_string(10)
     )
-    print(details)
+    
    
     return
